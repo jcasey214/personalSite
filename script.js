@@ -9,4 +9,3 @@ $(document).ready(function(){
 		$(this).animate({fontSize:'1.25em'},200);
 	});
 });
-
